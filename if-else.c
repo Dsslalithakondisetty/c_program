@@ -11,4 +11,5 @@ int main()
     else{
         printf("a is less than b ");
     }
+    return 0;
 }
